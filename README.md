@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo created for a an assignment
+Repo created for an assignment
